@@ -25,7 +25,7 @@ SECRET_KEY = '%bg60g90byrgj=tfj3#)r6p8f6k-w=pwm_)+5@8dup7)i9o80c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['basiabot.pythonanywhere.com', '127.0.0.1:8000']
 
 
 # Application definition
